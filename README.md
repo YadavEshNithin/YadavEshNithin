@@ -14,6 +14,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
 [![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
 
+---
 
 **Cloud & DevOps Engineer (Aspiring)**  
 
@@ -22,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
 
+---
 
 ### 🌐 About Me  
 I am a **Cloud Support Engineer** with 1 year of experience as an **L1 Support Engineer at Techolution**.  
@@ -29,6 +31,7 @@ I have hands-on exposure to **Google Cloud Platform (GCP), Amazon Web Services (
 
 Currently, I am looking for opportunities as a **Cloud Support Engineer** or **DevOps Engineer**, where I can contribute to automating cloud-native infrastructure, building CI/CD pipelines, and monitoring applications in production.  
 
+---
 
 ### 🛠 Tech Stack  
 
