@@ -1,39 +1,28 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<div align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Your Name Banner" width="100%">
 </div>
 
-###
+# 👋 Hi, I'm [Your Name]
+
+### [Your Job Title or Specialty] @ [Your Company]
+
+[A brief, engaging summary about yourself and your skills. For example: "I am a DevOps enthusiast with a passion for building scalable and reliable systems. I specialize in cloud automation and continuous integration/continuous delivery."
+
+---
+
+#### 👨‍💻 I’m currently focused on:
+
+* **DevOps:** [Specific area like CI/CD, automation, etc.]
+* **SRE:** [Specific area like monitoring, reliability, etc.]
+* **Cloud Engineering:** [Specific cloud platform like AWS, Azure, GCP]
+* **Containers:** [Specific tools like Docker, Kubernetes]
+* **IaC:** [Specific tools like Terraform, CloudFormation]
+* **Mentor:** [Optional: If you mentor others or are interested in it]
+
+---
+
+#### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![Email](https://img.shields.io/badge/Email-YourEmail-red)](mailto:YOUR_EMAIL_ADDRESS)
