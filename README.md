@@ -94,7 +94,7 @@ To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud i
 
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" alt="github" width="40" height="40"/>
   </a>
 
   <!-- Jenkins -->
