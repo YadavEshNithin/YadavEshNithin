@@ -8,11 +8,6 @@
 
 🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic  
 
-#### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
 
 ---
 
@@ -73,9 +68,16 @@ To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud i
 ![](https://nirzak-streak-stats.vercel.app/?user=YadavEshNithin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YadavEshNithin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=YadavEshNithin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+
+
+#### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
+
 
 ![snake gif](https://github.com/YadavEshNithin/YadavEshNithin/blob/output/github-snake-dark.svg)
