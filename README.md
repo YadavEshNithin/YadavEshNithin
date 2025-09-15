@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/overlay/background-image/" alt="Your Name Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHuJxWBFyFvvw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681961385135?e=1760572800&v=beta&t=ragw2_Y0D4gL1JNQ0U6pdUmT6wuG9Jux5oay49fShL4" alt="Your Name Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm Yadav Esh Nithin
