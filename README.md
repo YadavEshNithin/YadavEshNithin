@@ -78,4 +78,4 @@ To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud i
 
 ---
 
-![snake gif](https://github.com/YadavEshNithin/YadavEshNithin/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YadavEshNithin/YadavEshNithin/blob/output/github-snake-dark.svg)
