@@ -1,51 +1,3 @@
-Perfect 👍 You want a **GitHub profile README** similar to the screenshot, but customized for your profile. Here’s a tailored version for you:
-
----
-
-# 👋 Hi, I'm \[Your Name]
-
-**Cloud & DevOps Engineer (Aspiring)**
-
-🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
-
----
-
-### 🌐 About Me
-
-I am a **Cloud Support Engineer** with 1 year of experience as an **L1 Support Engineer at Techolution**.
-I have hands-on exposure to **Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes, Terraform, Jenkins, Docker, Ansible, New Relic, and Linux administration**.
-
-Currently, I am looking for opportunities as a **Cloud Support Engineer** or **DevOps Engineer**, where I can contribute to automating cloud-native infrastructure, building CI/CD pipelines, and monitoring applications in production.
-
----
-
-### 🛠 Tech Stack
-
-* ☁ **Cloud**: GCP, AWS
-* 💻 **OS**: Linux, Windows
-* 🔄 **CI/CD**: Jenkins, GitHub Actions
-* 📦 **Containers & Orchestration**: Docker, Kubernetes
-* ⚙️ **IaC**: Terraform, Ansible
-* 🔍 **Monitoring & Observability**: New Relic
-* 🗂 **Version Control**: Git, GitHub
-* 🔐 **Security & Scanning**: SonarQube, Snyk
-* 🛠 **Other Tools**: Shell Scripting, Production Support
-
----
-
-### 🚀 Career Goal
-
-To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud infrastructure management, observability, and modern deployment practices.
-
----
-
-👉 Would you like me to also **add cool GitHub stats & badges (like top languages, streak stats, etc.)** to make it visually attractive, like many developers do?
-
-
------------------------
 
 
 <div align="center">
@@ -54,14 +6,51 @@ To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud i
 
 # 👋 Hi, I'm Yadav Esh Nithin
 
-### Cloud support Engineer
-
-Cloud Engineer with 1 year of hands-on experience supporting Cloud infrastructure, production environments, and deployment operations. Skilled in AWS, Terraform, Kubernetes, Docker and CI/CD with a strong foundation in DevOps practices and cloud automation. Actively seeking Cloud/DevOps Engineer roles to build on existing experience and contribute to scalable, reliable cloud solutions.
-
----
+### 🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic 
 
 #### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
 [![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
+
+
+**Cloud & DevOps Engineer (Aspiring)**  
+
+🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+
+
+### 🌐 About Me  
+I am a **Cloud Support Engineer** with 1 year of experience as an **L1 Support Engineer at Techolution**.  
+I have hands-on exposure to **Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes, Terraform, Jenkins, Docker, Ansible, New Relic, and Linux administration**.  
+
+Currently, I am looking for opportunities as a **Cloud Support Engineer** or **DevOps Engineer**, where I can contribute to automating cloud-native infrastructure, building CI/CD pipelines, and monitoring applications in production.  
+
+
+### 🛠 Tech Stack  
+
+- ☁ **Cloud**: GCP, AWS  
+- 💻 **OS**: Linux, Windows  
+- 🔄 **CI/CD**: Jenkins, GitHub Actions  
+- 📦 **Containers & Orchestration**: Docker, Kubernetes  
+- ⚙️ **IaC**: Terraform, Ansible  
+- 🔍 **Monitoring & Observability**: New Relic  
+- 🗂 **Version Control**: Git, GitHub  
+- 🔐 **Security & Scanning**: SonarQube, Snyk  
+- 🛠 **Other Tools**: Shell Scripting, Production Support  
+
+---
+
+### 🚀 Career Goal  
+To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud infrastructure management, observability, and modern deployment practices.  
+
+---
+
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
