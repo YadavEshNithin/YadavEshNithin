@@ -14,4 +14,4 @@ Cloud Engineer with 1 year of hands-on experience supporting Cloud infrastructur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![Email](https://img.shields.io/badge/Email-YourEmail-red)](mailto:eshnithinyadav@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
