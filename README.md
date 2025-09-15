@@ -1,27 +1,18 @@
-
-
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHuJxWBFyFvvw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681961385135?e=1760572800&v=beta&t=ragw2_Y0D4gL1JNQ0U6pdUmT6wuG9Jux5oay49fShL4" alt="Your Name Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm Yadav Esh Nithin
 
-### 🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic 
+**Cloud Support Engineer**
+
+🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic  
 
 #### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/esh-nithin-yadav-8247b2246/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black)](https://medium.com/@YOUR_MEDIUM_USERNAME)
 [![Email](https://img.shields.io/badge/Email-eshnithinyadav@gmail.com-red)](mailto:eshnithinyadav@gmail.com)
-
----
-
-**Cloud & DevOps Engineer (Aspiring)**  
-
-🚀 Cloud Support Engineer • DevOps Enthusiast | GCP & AWS | CI/CD | Kubernetes | Terraform | Jenkins | Docker | Ansible | New Relic  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
 
 ---
 
@@ -35,15 +26,15 @@ Currently, I am looking for opportunities as a **Cloud Support Engineer** or **D
 
 ### 🛠 Tech Stack  
 
-- ☁ **Cloud**: GCP, AWS  
+- ☁ **Cloud**: AWS, GCP  
 - 💻 **OS**: Linux, Windows  
 - 🔄 **CI/CD**: Jenkins, GitHub Actions  
-- 📦 **Containers & Orchestration**: Docker, Kubernetes  
-- ⚙️ **IaC**: Terraform, Ansible  
-- 🔍 **Monitoring & Observability**: New Relic  
-- 🗂 **Version Control**: Git, GitHub  
-- 🔐 **Security & Scanning**: SonarQube, Snyk  
-- 🛠 **Other Tools**: Shell Scripting, Production Support  
+- 🔐 **SCM**: GitHub  
+- ⚙️ **IaC**: Terraform  
+- 📦 **Containers**: Docker, Kubernetes  
+- 🔍 **Security & Scanning**: SonarQube  
+- 🖥 **Scripting**: Bash, Shell, Python  
+- 📊 **Monitoring**: New Relic, Prometheus, Grafana  
 
 ---
 
