@@ -50,7 +50,7 @@ To grow into a strong **Cloud & DevOps Engineer**, mastering automation, cloud i
 - Ensured reliable deployments and seamless communication between microservices across environments.
 
 ---
-<h3 align="left">Skills & Tools:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
